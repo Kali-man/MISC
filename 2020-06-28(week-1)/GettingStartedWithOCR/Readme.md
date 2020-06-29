@@ -13,7 +13,7 @@ https://medium.com/better-programming/beginners-guide-to-tesseract-ocr-using-pyt
 
 
 '''
-import PIL
+from PIL import image
 
 '''
 
