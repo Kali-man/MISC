@@ -8,6 +8,14 @@ So for a quick and dirty soultion I followed the first example in the tutorial (
 https://medium.com/better-programming/beginners-guide-to-tesseract-ocr-using-python-10ecbb426c3d \
 
 * First we pip3 install Pillow and tesserocr
+* We import the file to PIL and preproccess it
+*We use tesserocr to extract the text from the preprocesed image
+
+
+'''
+import PIL
+
+'''
 
 
 
