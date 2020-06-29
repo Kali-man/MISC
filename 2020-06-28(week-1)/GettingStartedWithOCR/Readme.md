@@ -11,11 +11,10 @@ https://medium.com/better-programming/beginners-guide-to-tesseract-ocr-using-pyt
 * We import the file to PIL and preproccess it
 *We use tesserocr to extract the text from the preprocesed image
 
-
-'''
+```
 from PIL import image
 
-'''
+```
 
 
 
