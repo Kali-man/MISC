@@ -28,8 +28,8 @@ bw = gray.point(lambda x: 0 if x<200 else 255, '1')
 bw.save("recip.jpg")
 ```
 
-The Image.convert() method returns a converte copy of the image, we can convert to different formats: greyscale “L”, red-blue-green “RGB” and cian-magenta-yellow-balck “CMYK.” \
-From the grey scale we further filter pixels converting the image into a black and white one. Image.point() maps the image through a look up table.
+The `Image.convert()` method returns a converte copy of the image, we can convert to different formats: greyscale “L”, red-blue-green “RGB” and cian-magenta-yellow-balck “CMYK.” \
+From the grey scale we further filter pixels converting the image into a black and white one. `Image.point()` maps the image through a look up table.
 
 
 
