@@ -1,7 +1,6 @@
 # ManyDaysOfCode
-Weekly sets of practice code...
-I'll store here practice code. Eventually there will be:
+Mostly scripts, and calculations. I will gradually be building experience...
 
-* Cool projects or programming assignements from courses I found online.
-* Quick and dirty solutions to problems that I was asked to solve.
-* Maybe some HakerRankSolutions i'll want to remember
+* Mostly, Scripts
+* Competitive programming (if I ever get started)
+* Cool projects, tutorials or programming assignements from courses I found online.
